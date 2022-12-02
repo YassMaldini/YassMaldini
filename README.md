@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on React Native with Expo and React.js
 * 🌱 I’m currently learning english 🇬🇧
 * 📫 How to reach me: yass.maldini@gmail.com
-* ❤️ I love football and chess
+* ❤️ I love football ⚽️ and chess ♟️
 
 <!--
 **YassMaldini/YassMaldini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
