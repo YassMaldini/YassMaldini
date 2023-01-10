@@ -2,7 +2,7 @@
 * 👂 My name is Yacine Berkane
 * 🔭 I’m currently working on React Native with Expo and React.js
 * 🌱 I’m currently learning english 🇬🇧
-* 📫 How to reach me: yass.maldini@gmail.com
+* 📫 How to reach me: yacine.berkane66s@gmail.com
 * ❤️ I love football ⚽️ and chess ♟️
 
 <!--
